@@ -1,0 +1,144 @@
+# ===================================
+# 操作系统生成的文件
+# ===================================
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+.AppleDouble
+.LSOverride
+
+# macOS 缩略图
+._*
+
+# macOS 文件夹属性
+.DocumentRevisions-V100
+.fseventsd
+.TemporaryItems
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# macOS 网络存储
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# iOS
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+# Windows 快捷方式
+*.lnk
+
+# Windows 文件夹配置
+desktop.ini
+
+# ===================================
+# 编辑器和 IDE
+# ===================================
+
+# VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# JetBrains IDEs
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+*.swp
+*.swo
+*~
+.*.sw[a-z]
+*.un~
+Session.vim
+
+# Emacs
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+# ===================================
+# 临时文件和备份
+# ===================================
+
+# 临时文件
+*.tmp
+*.temp
+*.bak
+*.backup
+*.old
+*.orig
+
+# 日志文件
+*.log
+
+# ===================================
+# 内容相关（可选）
+# ===================================
+
+# 草稿文件夹（如果你想在本地保留草稿但不提交）
+# drafts/
+# _drafts/
+
+# 私有笔记
+# private/
+# .private/
+
+# 临时图片
+# temp-images/
+
+# ===================================
+# 其他
+# ===================================
+
+# Node.js（如果内容仓库有脚本）
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 压缩文件
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# 图片缩略图缓存
+.picasa.ini
+.picasaoriginals/
+
